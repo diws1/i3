@@ -1,8 +1,8 @@
 # i3-wm
-Simple configuration for i3 wm
+Simple configuration for i3 wm (current version 4.22)
 
 List of Apps on my system:
-- i3-gaps
+- i3-gaps (for old version i3 wm)
 - i3status
 - i3lock
 - xautolock
